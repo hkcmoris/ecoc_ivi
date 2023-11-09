@@ -1,0 +1,15 @@
+{
+  "name": "ecoc_ivi",
+  "version": "0.0.1",
+  "description": "Utility form for generating IVI for use in e-COC in xml format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecoc",
+    "ivi"
+  ],
+  "author": "Ondřej Moravec",
+  "license": "MIT"
+}
